@@ -2,7 +2,7 @@
 
 
 /* Main container */
-.App {
+.SignUp {
   text-align: center;
   background-color: #588661;
   min-height: 100vh;
@@ -11,11 +11,11 @@
   flex-direction: column;
   align-items: center;
   justify-content: center; 
-  padding-top: 100px !important; 
+  padding-top: 200px; 
   box-sizing: border-box;
 
   /* Background image  */
-  background-image: url('./assets/green-ver3.jpg'); 
+  background-image: url('../assets/green-ver3.jpg'); 
 
   background-size: 100% 100%; 
   background-position: center;
@@ -117,7 +117,7 @@
 .signup-text {
   margin-top: 15px;
   font-size: 14px;
-  font-weight: 500x;
+  font-weight: 500;
   color: #333;
   font-family: 'Poppins', sans-serif;
 }
