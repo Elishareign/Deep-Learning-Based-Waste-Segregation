@@ -46,7 +46,7 @@ function SignUp() {
 
       {/* Back to Login Link */}
       <p className="signup-text">
-        Already have an account? <a href="/" className="signup-link">Login</a>
+        Already have an account? <a href="/login" className="signup-link">Login</a>
       </p>
     </div>
   );
